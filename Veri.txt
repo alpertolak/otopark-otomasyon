@@ -1,0 +1,9 @@
+34 ak 47,Sedan,2&
+07 jc 3281,HatchBack,1&
+43 js 483,PanelVan,4&
+41 els 298,Sedan,3&
+01 yds 1632,Suv,2&
+54 edr 6532,HatchBack,1&
+60 fr 542,Sedan,1&
+01 adn 3421,Sedan,2&
+23 t 234,Sedan,2&
